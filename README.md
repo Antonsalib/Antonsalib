@@ -6,7 +6,7 @@
 </div>
 
 ---
-## Hey, I'm Anton! Software Engineer with a passion for coding, data, and mathematics. Currently a  I'm a **Full Stack Developer** and **University Tutor for Computer Science at Lipscomb University**.
+## Hey, I'm Anton! Software Engineer with a passion for coding, data, and mathematics. I'm a **Full Stack Developer** and **University Tutor for Computer Science at Lipscomb University**.
 
 
 ### Tech Stack:
@@ -17,8 +17,13 @@
 
 ### GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=antonsalib&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=antonsalib&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=antonsalib&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=antonsalib&theme=dark&hide_border=false)
+
+### GitHub Activity Graph:
+![](https://github-readme-activity-graph.vercel.app/graph?username=antonsalib&theme=react-dark)
+
+### Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anton-salib-88436432a/)
 
 ---
 
