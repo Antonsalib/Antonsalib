@@ -15,13 +15,6 @@
 ### Organizations & Contributions:
 [![Lunatic Labs](https://img.shields.io/badge/Lunatic%20Labs-Organization%20Member-purple?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lunatic-labs)
 
-### GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=antonsalib&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=antonsalib&theme=dark&hide_border=false)
-
-### GitHub Activity Graph:
-![](https://github-readme-activity-graph.vercel.app/graph?username=antonsalib&theme=react-dark)
-
 ### Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anton-salib-88436432a/)
 
