@@ -29,6 +29,6 @@ SQL, Snowflake, Power BI, Flask, SQLAlchemy, Node.js
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anton-salib-88436432a/) · [antonsalib02@gmail.com](mailto:antonsalib02@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anton-salib-88436432a/) [![Email Anton at antonsalib02@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antonsalib02@gmail.com)
 
 Open to new grad Software Engineering and Data Engineering roles for 2027.
